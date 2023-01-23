@@ -2,23 +2,19 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serifsans-serifsans-serif;
 }
 
-a {
-  color: cornflowerblue
+nav {
+  color:lightcoral;
+}
+
+a{
+  color:lightcoral;
+
 }
 
 p {
+
+
   width: 60%;
   height: fit-content;
 }
 
-#hidden {
-  display: none;
-  width: 100%;
-  height: 100px;
-  background-color: aqua;
-
-}
-
-:checked+#hidden+#hi {
-  display: inline;
-}
