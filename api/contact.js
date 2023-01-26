@@ -1,2 +1,2 @@
-var doc= document.getElementById('donnéé')
-console.log(donnéé)
+var doc = document.getElementById('donnéé');
+console.log(doc);
