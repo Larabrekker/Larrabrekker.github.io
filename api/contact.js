@@ -1,2 +1,2 @@
-var doc = document.getElementById('donnée');
+var doc= Document.getElementById('donnée');
 console.log(doc);
