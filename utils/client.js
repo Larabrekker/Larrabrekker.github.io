@@ -1,4 +1,4 @@
-const { createClient } = supabasesupabase
+const { createClient } = supabase
 
 const supabaseUrl = 'https://fewcywtpditheaemdsbb.supabase.co'
 const supabaseKey = process.env.SUPABASE_KEY
